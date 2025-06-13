@@ -1,0 +1,3 @@
+BE EXTREAMLY CAREFUL WHEN HANDLING THE .PCAP FILES CONTENT. RUNNING THE FILE IN WIRESHARK IS FINE. THIS IS MOSTLY IF YOU WANT TO START EXPORTING FILES FROM THE TRAFFIC ANALYSIS FILE.
+
+Open the pcap file within a Linux virtual machine such as Ubuntu or Kali Linux! This file does contain live malware that can damage/destroy your system. It is recommended to use a non-windows system with some examples mentioned above. If and when you need to export parts of the .pcap for further analysis, it is recommended to save the file NOT AS AS executable (.exe) OR dynamic link library (.dll) file as both can be and are armed.
